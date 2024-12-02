@@ -2,6 +2,30 @@
 
 ## Tarea 01 PSYP
 
+### Implementar un Semáforo
+
+*Instrucciones
+
+Queremos crear un semáforo que nos asegure que únicamente X hilos pueden acceder concurrentemente a un bloque de código.
+
+
+*Mejora de nota
+ 
+ Contiene documentación explicando la solución, requisitos, prueba de que funciona
+ 
+ Los valores utilizados son parametrizables en tiempo de ejecución
+ 
+ Se utiliza un framework de pruebas automatizadas (por ejemplo jUnit)
+ 
+Variables propuestas
+
+Número de hilos concurrentes
+
+Número de hilos simultáneos permitidos al acceder al bloque controlado
+
+Tiempo de espera
+
+Tiempo de ejecución del bloque controlado
 
 
 ### Comentarios acerca de la tarea
