@@ -45,7 +45,7 @@ public class RatonSemaforoParametrizado implements Runnable {
     // Método principal
     public static void main(String[] args) {
         
-        args = new String[]{"12", "3", "5"};
+        args = new String[]{"6", "2", "8"};
         
         if (args.length < 3) {
             System.out.println("Uso: java RatonSemaforoParametrizado <numRatones> <ratonesSimultaneos> <tiempoMaxAlimentacion>");
