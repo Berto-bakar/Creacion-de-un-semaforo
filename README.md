@@ -22,6 +22,8 @@ encuentran a la espera de poder usar el "comedero"
 * La clase RatonSemaforoParametrizado es similar a la anterior salvo que en esta clase podemos decir el número de ratones que queremos tener, la limitación del semáforo y por
 último el tiempo que como mucho pueden invertir en comer esos ratones.
 
+![image](https://github.com/user-attachments/assets/99f43751-652e-4862-bc2f-f273aba12acc)
+
 ![image](https://github.com/user-attachments/assets/b9f935b5-15a8-4bd8-8cd5-629e222df03e)
 
 
